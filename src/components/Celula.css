@@ -1,0 +1,10 @@
+.Celula {
+  height: 100px;
+  width: 100px;
+  border: 1px solid silver;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 65px;
+
+}
